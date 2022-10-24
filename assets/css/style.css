@@ -90,11 +90,11 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.png");
+    background: url("../images/shan.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 360px;
+    min-height: 200px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
